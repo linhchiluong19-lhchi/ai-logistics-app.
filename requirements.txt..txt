@@ -1,0 +1,7 @@
+streamlit
+easyocr
+numpy
+Pillow
+fuzzywuzzy
+python-Levenshtein
+torchvision
